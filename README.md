@@ -37,8 +37,6 @@ Clone the repository
 
 pip install -r requirements.txt
 
-Run the program: go run main.go
-
 python main.py
 
 
